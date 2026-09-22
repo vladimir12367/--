@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+
+h1{
+    text-align:center;
+    font-family:sans-serif;
+    font-size:50px;
+    font-weight:450;
+}
+
+a {
+    color:black;
+    margin-left:150px;
+    margin-top:100px;
+    font-size:20px;
+
+}
+
+
+main{
+    margin-top:25px;
+}
+
+
+main img{
+    border-left:15px black dotted;
+    margin-left:60px;
+    padding:9px;
+}
+
+
+main p{
+    border:2px solid black;
+    border-radius:15px;
+    padding:10px;
+    font-size:24px;
+    margin:30px 30px 30px 30px;
+}
+
+.vtexte{
+    font-size:24px;
+    color:blue;
+    margin-left:0;
+}
+
+footer{
+    background-color:black;
+    padding:10px;
+}
+
+footer p{
+    background-color:white;
+    padding:10px;
+    margin-bottom:10px;
+    margin-top:5px;
+}
